@@ -1,0 +1,11 @@
+.product-category-row-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 25px;
+    border: 1px solid turquoise;
+    margin-top: 10px;
+    text-align: left;
+    text-indent: 2%;
+    font-weight:bold;
+    
+}
